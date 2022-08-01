@@ -1,0 +1,33 @@
+body {
+  background: #e7eaee;
+}
+.container-form {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  background: #ffffff;
+  width: 40%;
+  border-radius: 0.6em;
+  text-align: center;
+  padding: 0.1em 0 2em;
+}
+.form-control {
+  width: 80%;
+  padding: 4px;
+  margin:auto;
+}
+h3 {
+  margin-top: 0.5em;
+  margin-bottom: 1.07em;
+}
+.alert-warning {
+  width: 85%;
+  margin:auto;
+  margin-bottom:1em
+}
+.butons{
+  margin-top: 2em;
+}
